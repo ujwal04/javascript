@@ -1,6 +1,4 @@
 #!/usr/bin/env node
-let fs=require("fs");
-let path=require("path");
 let helpObj=require("./commands/help");
 let treeObj=require("./commands/tree");
 let organizeObj=require("./commands/organize");
