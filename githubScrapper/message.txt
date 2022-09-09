@@ -1,0 +1,1 @@
+How to push different history URL while keeping infinite-scroll auto incremenet/decrement?
